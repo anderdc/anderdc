@@ -1,6 +1,9 @@
 ### Welcome to my profile 👋
--I'm currently and MLH fellow on the production engineering track for summer 2022 \n
+-I'm currently and MLH fellow on the production engineering track for summer 2022
+
 -I'm also learning about blockchain smart contract development for Solana and Ethereum
+
+
 <!--
 **anderdc/anderdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
