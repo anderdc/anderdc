@@ -1,5 +1,5 @@
 ### Welcome to my profile 👋
--I'm currently and MLH fellow on the production engineering track for summer 2022
+-I'm currently an MLH fellow on the production engineering track for summer 2022
 
 -I'm also learning about blockchain smart contract development for Solana and Ethereum
 
