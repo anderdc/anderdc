@@ -1,9 +1,9 @@
 ### Welcome to my profile 👋
--I have my own portfolio website accessible --> [here](https://anderdc.duckdns.org) ⚡
+- I have my own portfolio website accessible --> [here](https://anderdc.duckdns.org) ⚡
 
--I'm currently learning about blockchain smart contract development for Solana and Ethereum
+- I'm currently learning about blockchain smart contract development for Solana and Ethereum
 
--Some of my skills include Python, CI/CD, Shell Scripting, 
+- Some of my skills include Python, CI/CD, Shell Scripting, and Java
 
 <!--
 **anderdc/anderdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
