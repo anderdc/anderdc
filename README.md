@@ -1,4 +1,6 @@
-### Welcome to my profile 👋
-- I'm currently learning about blockchain validation, mining, & web development
+# I'm Alexander
 
-- Some of my skills include Python, CI/CD, Shell Scripting, Java, Javascript, Typescript, React, NestJs, Docker, Nginx, ML/AI, Blockchain, 
+### About Me
+- I’m currently working on training a model to detect seizures 
+- Skills I'm improving: `IT infrastructure`, `ML/AI with time-series data`, `DIY electronics and prototyping`
+- Learn more on my (fully self-hosted) [website](https://www.alexanderdc.com/about)
