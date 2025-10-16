@@ -1,6 +1,14 @@
 # I'm Alexander
 
-### About Me
-- I’m currently working on training a model to detect seizures 
-- Skills I'm improving: `IT infrastructure`, `ML/AI with time-series data`, `DIY electronics and prototyping`
-- Learn more on my (fully self-hosted) [website](https://www.alexanderdc.com/about)
+### Interests
+- ML/AI applications for neuroscience
+- nuclear engineering
+- electronics tinkering
+- digital autonomy (OSS, self-hosting, etc)
+- cryptocurrency, blockchain applications, and smart contract development
+- linear algebra
+- boxing
+- RSS feeds
+- haikus
+
+Check out my [website](https://www.alexanderdc.com/about)!
